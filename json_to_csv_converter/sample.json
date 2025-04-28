@@ -1,0 +1,31 @@
+{
+    "company": {
+    "name": "TechCorp",
+    "location": "New York",
+    "employees": [
+    {
+        "id": 1,
+        "name": "Alice",
+        "position": "Developer",
+        "skills": ["Go", "Java", "Python"]
+        },
+        {
+        "id": 2,
+        "name": "Bob",
+        "position": "Designer",
+        "skills": ["Photoshop", "Figma"]
+        }
+    ],
+    "founded": 2010,
+    "departments": {
+        "engineering": {
+        "head": "Charlie",
+        "teams": 5
+        },
+        "design": {
+        "head": "Diana",
+        "teams": 2
+        }
+    }
+    }
+}
