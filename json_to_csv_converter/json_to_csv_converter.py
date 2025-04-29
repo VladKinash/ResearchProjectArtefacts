@@ -19,5 +19,7 @@ def flatten_dict(data, exterior_key=''):
             flat_dict[new_key] = value
 
     return flat_dict
-#print(load_json())
+
+
+
 print(flatten_dict(load_json()))

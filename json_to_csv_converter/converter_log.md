@@ -7,3 +7,5 @@
 I decided to prompt ChatGPT reminding that I am a student and prefer answers in plain English instead of working complete code examples. It provided a good explanation but at this point working with it slowly becomes extraneous load where I spend more time refining its outputs instead of working on the project.
 
 4. ChatGPT talks about using recursion now, since it is a complex technique used in DSA, I decided to ask it for examples. My first prompt will be a vague "Please give me an example". ChatGPT correctly followed my instructions and focused on plain english explanations. 
+
+5. ..and it is gone, chatgpt deleted the conversation and i did not share it beforehand, i will move to another coding project
