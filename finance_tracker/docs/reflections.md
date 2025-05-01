@@ -1,5 +1,5 @@
 # Difficulty
-    In theory, even a person that has never coded could have done without really learning much. The whole process can be described in 3 steps: prompt AI with instructions => there is an error => prompt AI with the error/unexepcted behavior and instructions => repeat until the behavior of the code is exptected.
+    In theory, even a person that has never coded could have done without really learning much. The whole process can be described in 4 steps: prompt AI with instructions => there is an error => prompt AI with the error/unexpected behavior and instructions => repeat until the behavior of the code is expected.
 
 
 # Understanding of solution
